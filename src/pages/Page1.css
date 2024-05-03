@@ -1,0 +1,10 @@
+li{
+  list-style-type: none;
+  border: 100cm;
+  border-color: white;
+}
+
+p {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
